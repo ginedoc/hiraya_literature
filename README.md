@@ -1,6 +1,7 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+# [HiRaYa Literature Adventure](./index.html)
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+西拉雅是台灣平埔族的一支，主要的活動範圍在台南，其中又以四大社所在地為主。西拉雅四大社分別是，蕭壠社、目加溜灣社、麻豆社以及新港社。早在大航海時代，荷蘭人到來之前，西拉雅族便是這片土地上活躍的民族之一，他們擁有自己的語言、傳說以及歌謠。於是，文學便如同呼氣般自然地發生於日常中。從西拉雅部落的傳說—蛋人的後裔開始，直至荷蘭人帶來新港文書，西拉雅族開始有了除口傳歷史外的方式。開啟了另一段西拉雅文學之旅...
+
 
 ## Preview
 
