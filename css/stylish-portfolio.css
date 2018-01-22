@@ -16,7 +16,7 @@ body {
 
 .content-section {
   padding-top: 7.5rem;
-  padding-bottom: 7.5rem; }
+  padding-bottom: 7.5rem;  }
 
 .content-section-heading h2 {
   font-size: 3rem; }
@@ -86,7 +86,8 @@ h6 {
       height: 100vh; }
       .masthead h1 {
         font-size: 5.5rem; } }
-
+  
+  
 /* Side Menu */
 #sidebar-wrapper {
   position: fixed;
